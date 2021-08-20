@@ -1,13 +1,14 @@
 import requests
 import json
+import config
 
 
 def test():
     url = "https://api.omicsanalytics.com/api/auth/login"
 
     payload = json.dumps({
-        "email": "email ",                  # insert right email
-        "password": "password"              # insert password
+        "email": config.email + " ",
+        "password": config.password
     })
     headers = {
         'Content-Type': 'application/json'
