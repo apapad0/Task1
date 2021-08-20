@@ -21,4 +21,4 @@ We examine 5 test cases:
 
 **Note 1:**  All tests were written to return 'PASS' when the test *fails successfully*. 
 
-**Note 2:**  Test1 had a different reaction when tested manually and concidernig the manual test as the correct one test1 should fail. 
+**Note 2:**  Test1 had a different reaction when tested manually and concidering the manual test as the correct one test1 should fail. 
