@@ -17,6 +17,8 @@ We examine 5 test cases:
 - test5: both fields empty
 
 
-**Reminder:** To run the code successfully it's crucial to fill the config.py file with the right email and password.\r
-**Note 1:**  All tests were written to return 'PASS' when the test *fails successfully*. \r
+**Reminder:** To run the code successfully it's crucial to fill the config.py file with the right email and password.
+
+**Note 1:**  All tests were written to return 'PASS' when the test *fails successfully*. 
+
 **Note 2:**  Test1 had a different reaction when tested manually and concidernig the manual test as the correct one test1 should fail. 
