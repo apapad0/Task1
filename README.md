@@ -3,7 +3,6 @@
 This project runs as a supplementary test to the *Login* freature of https://app.omicsanalytics.com/login.
 
 **Instructions**
----
 
 1. git clone https://github.com/msRob0t/Task1
 2. pip install -r requirements.txt
